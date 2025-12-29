@@ -2,7 +2,7 @@
 This repo implements PD handrawing classification with different models and optimizer variants
 
 ## Dataset
-[Parkinson's Disease handdrawing dataset Link](https://www.kaggle.com/datasets/shreyadutta1116/parkinsons-disease)
+[Parkinson's Disease handdrawing dataset Link](https://www.kaggle.com/datasets/aashiqa/parkinsonsdataset)
 
 ## Notebook
 [Parkinson (Models and Optimizer) combo Notebook](https://github.com/sriram936/PD-and-NC-Classification-Study/blob/main/parkinson-models-and-optimizer-combo.ipynb)
